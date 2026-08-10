@@ -1,0 +1,6 @@
+{
+  "name": "Muse & Quill",
+  "description": "An AI-assisted creative writing interface that ghostwrites stories from images and features a conversational co-author chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
